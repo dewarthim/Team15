@@ -12,6 +12,9 @@ h1{
   margin: 40px;
 
 }
+/* .newimg{
+  margin-left: 50pc;
+} */
 
 #background {
   position: absolute; 
@@ -60,6 +63,7 @@ z-index: 4;
 
 
 .header_text {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   display: grid;
   grid-template-columns: 1fr, 1fr;
   grid-gap: 50px;
